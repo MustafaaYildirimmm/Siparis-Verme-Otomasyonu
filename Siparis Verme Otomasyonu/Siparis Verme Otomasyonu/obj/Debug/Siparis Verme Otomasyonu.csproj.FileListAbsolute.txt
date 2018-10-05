@@ -1,0 +1,10 @@
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\obj\Debug\Siparis Verme Otomasyonu.csprojAssemblyReference.cache
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\obj\Debug\Siparis_Verme_Otomasyonu.Form1.resources
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\obj\Debug\Siparis_Verme_Otomasyonu.Properties.Resources.resources
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\obj\Debug\Siparis Verme Otomasyonu.csproj.GenerateResource.cache
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\obj\Debug\Siparis Verme Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\bin\Debug\Siparis Verme Otomasyonu.exe
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\bin\Debug\Siparis Verme Otomasyonu.pdb
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\obj\Debug\Siparis Verme Otomasyonu.exe
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\obj\Debug\Siparis Verme Otomasyonu.pdb
+C:\Users\msft_\source\repos\Siparis Verme Otomasyonu\Siparis Verme Otomasyonu\obj\Debug\Siparis_Verme_Otomasyonu.SİparisDetay.resources
